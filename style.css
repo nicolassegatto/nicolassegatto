@@ -1,0 +1,26 @@
+.top {
+    background-image: linear-gradient(to right, #88f7f9, #048fff);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 718px;;
+}
+
+.top .container{
+    position: relative;
+    top: 45%;
+}
+
+.titulo {
+    color: white;
+    text-align: center;
+
+}
+
+.titulo h1 {
+    font-weight: bolder;
+    font-size: 60px;
+}
+.titulo p {
+    font-weight: lighter;
+    font-size: 20px;
+}
