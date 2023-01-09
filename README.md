@@ -15,7 +15,7 @@
 </div>
 
 
-##
+<!-- ##
 
 <div>
   <a href="https://github.com/nicolassegatto">
@@ -41,3 +41,4 @@
 
 
 ![Snake animation](https://github.com/nicolassegatto/nicolassegatto/blob/output/github-contribution-grid-snake.svg)
+ -->
