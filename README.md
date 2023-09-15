@@ -1,9 +1,9 @@
 ### Eai!!! Eu sou o Nicolas. 🤙
 
 - 💻 Hoje trabalho com JavaScript 
-- 🌱 Estudo Engenharia de Produção
+- 🌱 Formado em Engenharia de Produção
 - 🔭 Estou sempre aprofundando nas linguagens de domínio.
-- 📫 Você pode me encontrar no instagram @segatto.seloko
+- 📫 Você pode me encontrar no instagram @segatto.dev
 - ⚡ Busco ter um excelente futuro transformando o mundo com tecnologia.
 
 <div> 
